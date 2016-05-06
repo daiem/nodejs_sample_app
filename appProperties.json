@@ -1,0 +1,13 @@
+{
+  "route": {
+    "/sample_app/focus_pic": {
+      "template": "focus_pic"
+    },
+    "/sample_app/article_list": {
+      "template": "article_list"
+    },
+    "/sample_app/article_detail": {
+      "template": "article_detail"
+    }
+  }
+}
