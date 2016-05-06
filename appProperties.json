@@ -7,7 +7,8 @@
       "template": "article_list"
     },
     "/sample_app/article_detail": {
-      "template": "article_detail"
+      "template": "article_detail",
+      "inner_html": "article"
     }
   }
 }
